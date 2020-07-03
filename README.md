@@ -6,4 +6,15 @@ An easy to use inventory system that makes keeping track of items simple and hus
  * Use phpmyadmin to import the datatbase file which has been provided 
  * Once done simply access the system through any browser (Recommended : Chrome)
  
+ # First time use
+ * The config file can be changed to adjust the following:
+ * Admin username and password
+ * Database name
+ * Database host
+ * Database password
+ * Database username
+ 
+ # Default admin login details
+ * Username : amin
+ * Password : admin
  
