@@ -1,5 +1,5 @@
 # Inventory-System
-An easy to use inventory system that makes keeping track of items simple and hustle free.
+An easy to use inventory system that makes keeping track of items simple and hastle free.
 
 # Installation
  * Simply place the folder with all the files on a web server that supports php version 7+ 
@@ -15,6 +15,6 @@ An easy to use inventory system that makes keeping track of items simple and hus
  * Database username
  
  # Default admin login details
- * Username : amin
+ * Username : admin
  * Password : admin
  
